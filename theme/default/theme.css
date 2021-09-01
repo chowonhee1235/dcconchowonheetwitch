@@ -63,7 +63,6 @@ body {
   display: flex;
   flex-grow: 1;
   padding: 0 0.25rem;
-  color: #fff !important;
   font-weight: 600;
 }
 .chat_badge_box {
