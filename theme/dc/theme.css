@@ -497,6 +497,9 @@ body {
   background-repeat: no-repeat;
   background-position: right bottom;
 }
+img[src="https://raw.githubusercontent.com/chowonhee1235/dcconchowonheetwitch/main/images/dccon/%EB%B3%BC%ED%8A%B8%EA%B3%B5%EC%A4%91.png"] {
+    animation: rotation .5s infinite linear;
+}
 
 #chat_wrapper > [class*="user_a"] .chat_badge_box::before { content: '(121.190)' }
 #chat_wrapper > [class*="user_b"] .chat_badge_box::before { content: '(39.7)' }

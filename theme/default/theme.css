@@ -179,3 +179,6 @@ body {
   font-size: 0.875rem;
   color: rgba(255, 255, 255, 0.75);
 }
+img[src="https://raw.githubusercontent.com/chowonhee1235/dcconchowonheetwitch/main/images/dccon/%EB%B3%BC%ED%8A%B8%EA%B3%B5%EC%A4%91.png"] {
+    animation: rotation .5s infinite linear;
+}
