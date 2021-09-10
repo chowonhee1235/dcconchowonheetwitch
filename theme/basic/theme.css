@@ -23,7 +23,7 @@ body
 
 /* 최대(기본) 크기는 112px */
 img.twitch_emote	{	max-height:50px; }
-img.dccon					{	max-height:100px; }
+img.dccon					{	max-height:500px; }
 
 
 /* 구독자 및 후원 메세지 설정 */
